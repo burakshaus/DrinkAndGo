@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmT4Mi8X69p2f8Ct2AyEI94oRR4h84EvbAz/BxVq36PDIGjIDuayDj+gg36R3D8SvKWRV1wlfeFoVFSPAaHQuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\DrinkAndGo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

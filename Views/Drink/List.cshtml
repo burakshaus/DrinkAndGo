@@ -1,0 +1,43 @@
+﻿@model DrinkAndGo.ViewModels.DrinkListViewModel
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Drink List</title>
+    <!-- Add Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2>All drinks are shown here</h2>
+                <h2>@Model.CurrentCatagory</h2>
+            </div>
+        </div>
+        <div class="row">
+            @{
+                foreach (var drink in Model.Drinks)
+                {
+                    <div class="col-sm-4 col-lg-4 col-md-4 mb-4">
+                        <div class="card h-100">
+                            <img src="@drink.ImageThumbnailUrl" alt="" class="card-img-top img-fluid" />
+                            <div class="card-body">
+                                <h4 class="card-title">
+                                    <a>@drink.Name</a>
+                                </h4>
+                                <h5>@drink.Price.ToString("c")</h5>
+                                <p class="card-text">@drink.ShortDescription</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+    <!-- Add Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
