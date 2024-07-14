@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|c:\\users\\admin\\source\\repos\\drinkandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{68F3E620-C6E7-4F25-B485-F999E15516BD}|DrinkAndGo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwBUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T15:07:40.032Z",
-              "IsPinned": true,
+              "Title": "DrinkController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Controllers\\DrinkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DrinkController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Controllers\\DrinkController.cs",
+              "RelativeToolTip": "Controllers\\DrinkController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:32:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Models\\Catagory.cs",
+              "RelativeDocumentMoniker": "Models\\Catagory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Models\\Catagory.cs*",
+              "RelativeToolTip": "Models\\Catagory.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:26:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T14:20:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Models\\Drink.cs",
+              "RelativeDocumentMoniker": "Models\\Drink.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Models\\Drink.cs*",
+              "RelativeToolTip": "Models\\Drink.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:16:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:48:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T13:36:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DrinkAndGo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:43:03.617Z",
               "EditorCaption": ""
             }
           ]

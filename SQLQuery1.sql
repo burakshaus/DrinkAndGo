@@ -1,0 +1,19 @@
+--CREATE TABLE Drink (
+--    DrinkId INT PRIMARY KEY IDENTITY(1,1),
+--    Name NVARCHAR(100) NOT NULL,
+--    ShortDescription NVARCHAR(255) NULL,
+--    LongDescription NVARCHAR(MAX) NULL,
+--    Price DECIMAL(18, 2) NOT NULL,
+--    ImgUrl NVARCHAR(255) NULL,
+--    ImageThumbnailUrl NVARCHAR(255) NULL,
+--    IsPrefferedDrink BIT NOT NULL,
+--    InStock BIT NOT NULL,
+--    CatagoryId INT NOT NULL,
+--    FOREIGN KEY (CatagoryId) REFERENCES Catagory(CatagoryId)
+--);
+--CREATE TABLE Catagory (
+--    CatagoryId INT PRIMARY KEY IDENTITY(1,1),
+--    CatagoryName NVARCHAR(100) NOT NULL,
+--    Description NVARCHAR(MAX) NULL
+--);
+

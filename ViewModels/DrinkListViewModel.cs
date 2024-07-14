@@ -1,4 +1,4 @@
-﻿using DrinkAndGo.Data.Models;
+﻿using DrinkAndGo.Models;
 namespace DrinkAndGo.ViewModels
 {
     public class DrinkListViewModel
