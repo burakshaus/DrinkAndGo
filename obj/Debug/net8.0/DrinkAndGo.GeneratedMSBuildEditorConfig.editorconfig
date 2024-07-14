@@ -18,8 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\DrinkAndGo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/source/repos/DrinkAndGo/Views/Drink/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpbmtcTGlzdC5jc2h0bWw=
+[C:/Users/Admin/source/repos/DrinkAndGo/Views/Drinks/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpbmtzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DrinkAndGo/Views/Drinks/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpbmtzXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/source/repos/DrinkAndGo/Views/Home/Index.cshtml]

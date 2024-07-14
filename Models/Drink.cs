@@ -9,10 +9,10 @@
         public decimal Price { get; set; }
         public string ImgUrl { get; set; }
         public string ImageThumbnailUrl { get; set; }
-        public bool IsPrefferedDrink { get; set; }
+        public bool IsPreferredDrink { get; set; }
         public bool InStock { get; set; }
-        public int CatagoryId { get; set; }
-        public virtual Catagory Catagory { get; set; }
+        public int CategoryId { get; set; }
+        public virtual Category Category { get; set; }
 
     }
 }
